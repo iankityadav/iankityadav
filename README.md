@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <h3>Awards</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iankityadav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=iankityadav&theme=onedark)
