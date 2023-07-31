@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Spring development
 - 🌱 I’m currently learning Cloud Computing
 - 💬 Ask me about web development
-  
+
+![](https://komarev.com/ghpvc/?username=iankityadav&label=PROFILE+VIEWS&style=for-the-badge)
   
 ![iankityadav GitHub stats](https://github-readme-stats.vercel.app/api?username=iankityadav&theme=maroongold&show_icons=true)
 
