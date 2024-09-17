@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-- 🔭 I’m currently working on Spring development
+- 🔭 I’m currently working on NodeJS full stack development
 - 🌱 I’m currently learning Cloud Computing
 - 💬 Ask me about web development
 
